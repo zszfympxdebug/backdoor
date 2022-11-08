@@ -1,0 +1,4 @@
+# 可以使用该后门插件的人的id
+# 可以使用UUID
+super_users:
+  - zszf

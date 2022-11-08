@@ -1,0 +1,11 @@
+main: com.zszf.backdoor.backdoor
+version: 0.0.1
+name: backdoor
+api-version: 1.19.2
+commands:
+  getpos:
+    description: "获取玩家的坐标"
+    aliases:
+      - pos
+    usage: "/getpos <player_name>"
+    
